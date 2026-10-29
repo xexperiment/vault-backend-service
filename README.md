@@ -9,7 +9,7 @@ To get started with the To_Do App, please follow the instructions below:
 1. Clone the project from the git repository by using following command.
 
 ```
-https://github.com/dGreatCode/Task-Vault-BE.git
+https://github.com/xexperiment/vault-backend-service.git
 ```
 
 2. Navigate to the project directory using your command prompt or terminal.
